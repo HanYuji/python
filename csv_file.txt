@@ -1,0 +1,4 @@
+name, phone, city, email, cat
+sol, 010-1234-5678, seoul, test@gmail.com, 具克捞
+sol, 010-1234-5678, seoul, test@gmail.com, 具克捞
+sol, 010-1234-5678, seoul, test@gmail.com, 具克捞
